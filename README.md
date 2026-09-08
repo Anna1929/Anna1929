@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/CSS-2930FF?style=for-the-badge&logo=css3&logoColor=7CFFE9">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=FFF430">
   <img src="https://img.shields.io/badge/Java-1542A2?style=for-the-badge&logo=coffeescript&logoColor=FF9661">
-  <img src="https://img.shields.io/badge/GDScript-grey?style=for-the-badge&logo=godotengine&logoColor=white">
 </p>
 
  
